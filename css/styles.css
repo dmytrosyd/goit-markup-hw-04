@@ -240,16 +240,17 @@ img {
   display: flex;
   align-items: center;
   background-color: var(--bg-icon);
+  justify-content: center;
 
   height: 112px;
   margin-bottom: 8px;
   border-radius: 4px;
 }
-.feature-icon {
+/* .feature-icon {
   display: flex;
   align-items: center;
   margin: 0 auto;
-}
+} */
 
 /* doing */
 .doing {
